@@ -3,6 +3,10 @@
 
 A real-time chat application using express, socket.io, redis, and etc.
 
+# DEMO Video
+
+- https://www.youtube.com/watch?v=1cfebfy_T1s
+
 # How to run
 
 This tutorial is for mac environment. The process in Windows environment
