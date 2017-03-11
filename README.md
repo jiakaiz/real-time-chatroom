@@ -5,7 +5,7 @@ A real-time chat application using express, socket.io, redis, and etc.
 
 # DEMO Video
 
-- https://youtu.be/p3b-1-Q_GAU
+- https://youtu.be/WnVaSpbJjmY
 
 # How to run
 
